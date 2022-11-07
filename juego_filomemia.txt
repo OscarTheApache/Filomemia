@@ -1,7 +1,0 @@
-filomemia
-
-incica pantalla negra, sale lo siguiente
-
-'This is the abyss. That which is knowledge'
-
-Cuando pasas el cursor te da la opción de poner definición

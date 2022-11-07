@@ -1,7 +1,0 @@
-[Nombre, Apellido Paterno, Apellido Materno, País.Estado.Ciudad, Dia.Mes.Año, Relación]
-[Oscar, Rosales, Navarro, México.BajaCaliforniaSur.LaPaz, 20.08.1995]
-[Martin Oscar, Rosales, Velázquez, México.BajaCaliforniaSur.LaPaz, 13.03.1963, Papa]
-[Elvia Patricia, Navarro, Trejo, México.BajaCaliforniaSur.LaPaz, 08.03.1967, Mama]
-[Teresa, Trejo, Cornejo, México.BajaCaliforniaSur.LaPaz, XX.05.1940, Abuela]
-[Teresa, Velázquez,, México.Guanajuato.Comonfort, , Abuela]
-[]
